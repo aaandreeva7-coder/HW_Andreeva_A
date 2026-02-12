@@ -10,9 +10,10 @@
 
 ## Примеркода на Python
 В ходе работы был написан следующий скрипт для выполнения простыхматематических задач:
-''' python name = "Алина" '''
-''' python a = 10 '''
-''' python b = 5 '''
-''' python result = a + b '''
-''' python print(f"Привет, {name}!") '''
-''' python print(f"Результат сложения {a} + {b} равен {result}") '''
+''' 
+python name = "Алина"
+a = 10 
+b = 5 
+result = a + b 
+print(f"Привет, {name}!")print(f"Результат сложения {a} + {b} равен {result}") 
+'''
